@@ -1,0 +1,12 @@
+"config"
+{
+	"bindings"
+	{
+		"c"		"+voicerecord"
+		"CTRL"		"+noclip"
+		"v"		"+duck"
+		"'"		"toggleconsole"
+		"`"		"<unbound>"
+		"MOUSE4"		"<unbound>"
+	}
+}
